@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- CCSA feature config-->
+    <bool name="support_ccsa_feature">false</bool>
+</resources>

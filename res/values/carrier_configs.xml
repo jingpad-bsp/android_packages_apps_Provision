@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <!-- Some carriers won't expected to  -->
+  <bool name="allow_show_operator_statement" targetCarriers="cmcc">false</bool>
+</resources>

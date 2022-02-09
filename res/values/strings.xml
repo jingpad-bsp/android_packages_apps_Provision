@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="title">Statement</string>
+    <string name="confirm">Confirm</string>
+    <string name="privacy_statement">In order to provide you with better service, your device may send you and the information about the device to the selected service provider via WLAN or data network. The operator undertakes to analyze the information only for the purpose of improving the quality of service or providing a customized service or technology and will not disclose the information to the outside world in any form that identifies you personally.</string>
+    <string name="ccsa_statement">This terminal supports system interface for application access or open a data connection, which may affect the security of user information related to the mechanism of the conduct prompt, If you open some applications may affect user experience, if needed please set it on or off on "AppFolder-Permission Settings" application.In order to provide network services to users, networkstack needs to be turned on for networking.</string>
+    <string name="cta_statement">In order to provide network services to users, networkstack needs to be turned on for networking.</string>
+</resources>
